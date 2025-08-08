@@ -1,5 +1,7 @@
 # SaaS-Analytics
-A modern data pipeline approach to SaaS metrics tracking taking traditional Excel analysis to the next level with professional data tools
+A modern data pipeline approach to SaaS metrics tracking taking traditional Excel analysis to the next level with professional data tools.
+
+Read the complete business analysis and recommendations in my portfolio.  
 
 # Project Origin Story
 The Inspiration: Pennylane's Guides for their clients.
@@ -71,7 +73,9 @@ Marts Layer -> for business logic implementation ranslating business requirement
 # Metrics calculation
 
 `**customer_churn_rate =** (churned_customers / beginning_customers) * 100`
+
 `**mrr_churn_rate =** (churned_mrr / previous_mrr) * 100`
+
 `**arpu =** total_mrr / active_customers`
 
 # Step 4: Power BI Dashboard Creation
@@ -82,9 +86,9 @@ Included dashboard Components:
 - Trend Lines: Historical pattern analysis
 - Executive Layout: Professional presentation format
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.PNG)
 
 
 # Project Structure
 
-![Project structure](structure.png)
+![Project structure](structure.PNG)
