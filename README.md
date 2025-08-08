@@ -88,6 +88,7 @@ Included dashboard Components:
 - Trend Lines: Historical pattern analysis
 - Executive Layout: Professional presentation format
 
+![Dashboard](Dashboard.PNG)
 
 
 # Project Structure
