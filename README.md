@@ -1,7 +1,7 @@
 # SaaS-Analytics
 A modern data pipeline approach to SaaS metrics tracking taking traditional Excel analysis to the next level with professional data tools.
 
-## _Read the complete business analysis and recommendations in my portfolio._ 
+## _Read the complete business analysis and recommendations in my [Data Portfolio](https://linamarieth.notion.site/Data-Portfolio-2492e9a96f748084ac40da6375aa50a5?source=copy_link)_
 
 # Project Origin Story
 The Inspiration: Pennylane's Guides for their clients.
