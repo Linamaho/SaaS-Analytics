@@ -76,7 +76,7 @@ Marts Layer -> for business logic implementation ranslating business requirement
 
 `**customer_churn_rate =** (churned_customers / beginning_customers) * 100`
 
-`**mrr_churn_rate =** (churned_mrr / previous_mrr) * 100`
+`*Customer Churn Rate: churned_customers / beginning_month_customers * 100`
 
 `**arpu =** total_mrr / active_customers`
 
