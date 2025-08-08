@@ -53,7 +53,7 @@ Raw CSV Data → DBT Staging → DBT Marts → DuckDB → Power BI Dashboard
 # Step 1:
 If required, install data stack tools
 
-`pip install dbt-duckdb pandas`
+`pip install dbt-duckdb`
 
 # Step 2: Data 
 
