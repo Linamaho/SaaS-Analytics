@@ -10,6 +10,7 @@ While exploring Pennylane's resources, I discovered they offer an Excel template
 This got me thinking: _What would the next evolution of this look like using professional data tools?_
 
 I embarked on the Challenge: From Spreadsheet to Data Pipeline
+
 Why? -> Excel templates are fantastic for getting started, but what if we could take this concept further? 
 
 What if SME clients could have access to the same sophisticated analytics infrastructure that enterprise companies use? 
@@ -18,11 +19,12 @@ This project explores that vision by building a production-ready data pipeline f
 # The Technical Evolution
 
 Pennylane's Approach: Excel template → Manual calculations → Basic insights
+
 This Project's Approach: Raw data → DBT transformations → Automated dashboard → Advanced analytics
 
 This isn't about replacing Pennylane's solution, it's about exploring what the next level could look like for anyone interested in advanced data analytics.
 
-# Data Note: Data was AI-Generated 
+# Note: Data was AI-Generated 
 Why Synthetic Data?
 Because finding realistic SaaS datasets with customer lifecycle, subscription events, and financial metrics is nearly impossible due to privacy and competitive sensitivity.
 The solution is to use AI-generated synthetic data that mimics real SaaS business patterns, including:
